@@ -4,8 +4,8 @@
   "description": "Oferta laboral",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "run1": "node index.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
+    
   },
   "author": "Fernando Gomez Hobbs",
   "license": "ISC"
