@@ -1,0 +1,12 @@
+{
+  "name": "autos",
+  "version": "1.0.0",
+  "description": "Oferta laboral",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run1": "node index.js"
+  },
+  "author": "Fernando Gomez Hobbs",
+  "license": "ISC"
+}
